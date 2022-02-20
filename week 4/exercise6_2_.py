@@ -11,7 +11,7 @@ def distance(x1, y1, x2, y2):
 # print(distance(1, 2, 4, 6))
 
 # radius = distance()
-def area(radius = distance(1,2, 4, 6)):
+def area(radius = distance(1, 2, 4, 6)):
     area_circle = math.pi * radius**2
     return area_circle
     
