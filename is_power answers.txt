@@ -1,0 +1,14 @@
+Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:/Users/dan_b/Documents/SCHOOL/Assignments/Intro to CS fundamentals/is_power.py
+print("is_power(10, 2) returns: ", is_power(10, 2))
+is_power(10, 2) returns:  False
+print("is_power(27, 3) returns: ", is_power(27, 3))
+is_power(27, 3) returns:  True
+print("is_power(1, 1) returns: ", is_power(1, 1))
+is_power(1, 1) returns:  True
+print("is_power(10, 1) returns: ", is_power(10, 1))
+is_power(10, 1) returns:  False
+print("is_power(3, 3) returns: ", is_power(3, 3))
+is_power(3, 3) returns:  True
